@@ -1,9 +1,10 @@
 ---
-title: ""
+title: "超低コストかつ爆速！『Gemini 2.5 Flash-Lite』をマルチエージェント開発に採用すべき3つの理由"
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: ["React","Vite","LangGraph"]
+published: true
+published_at: 2026-11-08 00:00
 ---
 # 超低コストかつ爆速！『Gemini 2.5 Flash-Lite』をマルチエージェント開発に採用すべき3つの理由
 
