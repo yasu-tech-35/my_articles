@@ -1,5 +1,5 @@
 ---
-title: "【React/Firebase】無料枠（Spark）の制限を回避！Base64とFirebase Storageを環境変数で自動切り替える画像保存関数の実装"
+title: "【React/Firebase】無料枠（Spark）の制限を回避！Base64とFirebase Storageを環境変数で自動切り替える画像保存"
 emoji: "🐙"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["React","Vite","Bootstrap"]
