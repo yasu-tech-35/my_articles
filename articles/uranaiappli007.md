@@ -1,5 +1,5 @@
 ---
-title: "React + Firebase】初心者でもわかる！Firebase Authenticationで「メール/パスワード認証」と「Googleログイン」を実装する方法"
+title: "React+Firebaseで「メール/パスワード認証」と「Googleログイン」を実装する方法"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["React","Vite","Bootstrap","Firebase"]
