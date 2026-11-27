@@ -4,7 +4,7 @@ emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["React","Firebase","ReactRouter","JavaScript","認証"]
 published: true
-published_at: 2026-11-29 00:00
+published_at: 2026-11-30 00:00
 ---
 # 【React × Firebase】未ログインユーザーを自動で弾く！安全な保護ルート（ProtectedRoute）の作り方
 
@@ -202,3 +202,24 @@ export default function App() {
 > **書籍版の限定コンテンツ:**
 > * アプリ全体の完全ソースコード（GitHubリポジトリ）
 > * エラーハンドリングと環境構築の徹底解説
+
+### 🚀 React × Gemini API 実践開発シリーズ（好評発売中）
+
+本記事の技術スタック（React / Gemini API）をベースに、さらに高度なAIエージェント開発や業務・分析アプリへステップアップできる実践書シリーズです。
+
+「次に何を作ろうか？」と考えている方は、以下の実践開発ガイドもぜひチェックしてみてください。
+
+1. **AI同士に議論・改善させて成果物を作るなら**
+   📘 **『LangGraph×Geminiで構築する「AIマルチエージェント事業企画作成システム」開発ガイド』**
+   「提案役」と「承認・レビュー役」のAIエージェントをLangGraphで連携させ、納得のいく事業企画書が自動で出来上がる仕組みをハンズオンで構築します。
+   🔗 [Amazonで詳細を見る](https://www.amazon.co.jp/dp/B0HS2VCXD9)
+
+2. **同じ技術スタック（React×Firebase×Gemini 2.5 Flash-Lite）で別アプリを作るなら**
+   📘 **『React × Firebase × Gemini 2.5 Flash-Liteで作る！ AIエージェント駆動型・技術記事生成＆管理Webアプリ開発入門』**
+   認証・Firestore保存・Gemini 2.5 Flash-Lite連携という本記事の王道構成を活かし、日々のアウトプットを劇的に効率化する「記事生成＆管理アプリ」を完成させます。
+   🔗 [Amazonで詳細を見る](https://www.amazon.co.jp/dp/B0HPWN9PPW)
+
+3. **数値データの可視化×AI分析に挑戦するなら**
+   📘 **『React × Gemini APIで作る Webマーケティング&マクロ経済分析ダッシュボード』**
+   ReactでのダッシュボードUI構築とGeminiによるインサイト抽出を組み合わせ、データ分析Webアプリの開発スキルを身につけます。
+   🔗 [Amazonで詳細を見る](https://www.amazon.co.jp/dp/B0HKDLRB2P)
